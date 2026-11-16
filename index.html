@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light">
+<title>Ремонт и строительство — каталог DIY</title>
+<meta name="description" content="Каталог инструментов, оснастки, подбор по этапам работ и аккумуляторные платформы.">
+<link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="catalog.css">
+</head>
+<body><div class="site-frame">
+<header class="site-header"><div class="header-shell">
+<a class="brand" href="#/home"><span class="brand-symbol">DNS</span><span><strong>Инструменты</strong><small>структура каталога</small></span></a>
+<button type="button" class="catalog-button" id="catalog-button" aria-haspopup="dialog"><i></i>Каталог<span>⌄</span></button>
+<form class="search-wrap" id="search-form" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m16.5 16.5 4 4"></path></svg><input type="search" id="search" aria-label="Поиск по каталогу" placeholder="Найти категорию, бренд, этап или инструмент" autocomplete="off"><div id="search-results" class="search-results" hidden></div></form>
+<button class="plan-toggle-button" id="plan-toggle" type="button" aria-pressed="true">Скрыть «План»</button>
+<button class="tree-button" id="tree-button" type="button">Дерево структуры</button>
+</div></header>
+<main class="page-shell" id="main"></main>
+<footer><strong>Прототип структуры каталога DIY</strong><nav class="footer-links" aria-label="Служебные разделы"><a href="#/plan">План категорий</a><a href="#/changes">Изменения</a><a href="#/pending">К согласованию</a><a href="downloads/DIY_catalog_updated.xlsx" download>Excel</a><a href="data/catalog.json" download>JSON</a></nav></footer>
+</div>
+<dialog id="mega-dialog" class="mega-overlay" aria-label="Каталог"><div class="mega-panel"><aside id="mega-sections"></aside><div class="mega-main"><header><h2 id="mega-title"></h2><button class="close-button" data-close="mega-dialog" aria-label="Закрыть каталог">×</button></header><div class="mega-catalog-layout"><div id="mega-directory" class="mega-directory"></div><div id="mega-preview" class="mega-third-panel"></div></div></div></div></dialog>
+<dialog id="tree-dialog" class="tree-overlay" aria-label="Дерево структуры"><div class="tree-panel"><header><div><small>Ремонт и строительство</small><h2>Дерево структуры</h2></div><button data-close="tree-dialog" aria-label="Закрыть дерево">×</button></header><div class="tree-tools"><button id="expand-tree">Развернуть всё</button><button id="collapse-tree">Свернуть всё</button></div><div class="tree-content" id="tree-content"></div></div></dialog>
+<dialog id="category-dialog" class="category-dialog" aria-label="Карточка категории"><button class="close-button category-close" data-close="category-dialog" aria-label="Закрыть карточку">×</button><div id="category-content"></div></dialog>
+<script src="data.js"></script><script src="app.js"></script>
+</body></html>

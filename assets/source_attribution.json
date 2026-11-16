@@ -1,0 +1,335 @@
+{
+  "design_reference": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/",
+  "assets": [
+    {
+      "path": "assets/generated/phase-01/entry-01-accumulator-platforms.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/phase-01/entry-01-accumulator-platforms.webp",
+      "size": 196750
+    },
+    {
+      "path": "assets/generated/phase-01/entry-02-work-stages.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/phase-01/entry-02-work-stages.webp",
+      "size": 10718
+    },
+    {
+      "path": "assets/generated/phase-01/entry-03-tool-types.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/phase-01/entry-03-tool-types.webp",
+      "size": 15118
+    },
+    {
+      "path": "assets/generated/platform-brands/aceline.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/aceline.webp",
+      "size": 171906
+    },
+    {
+      "path": "assets/generated/platform-brands/aeg.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/aeg.webp",
+      "size": 199696
+    },
+    {
+      "path": "assets/generated/platform-brands/bosch.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/bosch.webp",
+      "size": 197290
+    },
+    {
+      "path": "assets/generated/platform-brands/cat.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/cat.webp",
+      "size": 234288
+    },
+    {
+      "path": "assets/generated/platform-brands/daewoo.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/daewoo.webp",
+      "size": 197506
+    },
+    {
+      "path": "assets/generated/platform-brands/deko.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/deko.webp",
+      "size": 267106
+    },
+    {
+      "path": "assets/generated/platform-brands/dewalt.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/dewalt.webp",
+      "size": 237546
+    },
+    {
+      "path": "assets/generated/platform-brands/einhell.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/einhell.webp",
+      "size": 195186
+    },
+    {
+      "path": "assets/generated/platform-brands/finepower.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/finepower.webp",
+      "size": 179310
+    },
+    {
+      "path": "assets/generated/platform-brands/greenworks.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/greenworks.webp",
+      "size": 163660
+    },
+    {
+      "path": "assets/generated/platform-brands/hanskonner.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/hanskonner.webp",
+      "size": 183630
+    },
+    {
+      "path": "assets/generated/platform-brands/hyundai.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/hyundai.webp",
+      "size": 196028
+    },
+    {
+      "path": "assets/generated/platform-brands/interskol.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/interskol.webp",
+      "size": 185118
+    },
+    {
+      "path": "assets/generated/platform-brands/karcher.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/karcher.webp",
+      "size": 162332
+    },
+    {
+      "path": "assets/generated/platform-brands/makita.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/makita.webp",
+      "size": 170232
+    },
+    {
+      "path": "assets/generated/platform-brands/metabo.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/metabo.webp",
+      "size": 240950
+    },
+    {
+      "path": "assets/generated/platform-brands/p-i-t.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/p-i-t.webp",
+      "size": 246198
+    },
+    {
+      "path": "assets/generated/platform-brands/patriot.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/patriot.webp",
+      "size": 191032
+    },
+    {
+      "path": "assets/generated/platform-brands/redverg.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/redverg.webp",
+      "size": 201686
+    },
+    {
+      "path": "assets/generated/platform-brands/ryobi.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/ryobi.webp",
+      "size": 241440
+    },
+    {
+      "path": "assets/generated/platform-brands/senix.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/senix.webp",
+      "size": 190386
+    },
+    {
+      "path": "assets/generated/platform-brands/sturm.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/sturm.webp",
+      "size": 237494
+    },
+    {
+      "path": "assets/generated/platform-brands/wesco.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/wesco.webp",
+      "size": 198318
+    },
+    {
+      "path": "assets/generated/platform-brands/worx.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/worx.webp",
+      "size": 219794
+    },
+    {
+      "path": "assets/generated/platform-brands/zubr.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/platform-brands/zubr.webp",
+      "size": 199758
+    },
+    {
+      "path": "assets/generated/stages/assembly-and-fastening.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/assembly-and-fastening.webp",
+      "size": 32662
+    },
+    {
+      "path": "assets/generated/stages/base-preparation.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/base-preparation.webp",
+      "size": 111118
+    },
+    {
+      "path": "assets/generated/stages/cleaning-inspection-and-handover.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/cleaning-inspection-and-handover.webp",
+      "size": 16062
+    },
+    {
+      "path": "assets/generated/stages/compressor-equipment.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/compressor-equipment.webp",
+      "size": 35164
+    },
+    {
+      "path": "assets/generated/stages/concrete-masonry-and-holes.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/concrete-masonry-and-holes.webp",
+      "size": 39254
+    },
+    {
+      "path": "assets/generated/stages/demolition-and-clearing.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/demolition-and-clearing.webp",
+      "size": 50892
+    },
+    {
+      "path": "assets/generated/stages/dust-removal.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/dust-removal.webp",
+      "size": 40254
+    },
+    {
+      "path": "assets/generated/stages/electrical-installation.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/electrical-installation.webp",
+      "size": 72940
+    },
+    {
+      "path": "assets/generated/stages/engineering-utilities.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/engineering-utilities.webp",
+      "size": 28334
+    },
+    {
+      "path": "assets/generated/stages/final-inspection.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/final-inspection.webp",
+      "size": 23878
+    },
+    {
+      "path": "assets/generated/stages/finish-work.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/finish-work.webp",
+      "size": 25982
+    },
+    {
+      "path": "assets/generated/stages/installation-of-structures-and-equipment.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/installation-of-structures-and-equipment.webp",
+      "size": 25572
+    },
+    {
+      "path": "assets/generated/stages/lighting-and-work-at-height.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/lighting-and-work-at-height.webp",
+      "size": 22060
+    },
+    {
+      "path": "assets/generated/stages/machine-tool-work.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/machine-tool-work.webp",
+      "size": 31008
+    },
+    {
+      "path": "assets/generated/stages/measurement-and-layout.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/measurement-and-layout.webp",
+      "size": 37922
+    },
+    {
+      "path": "assets/generated/stages/metal-structures.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/metal-structures.webp",
+      "size": 31822
+    },
+    {
+      "path": "assets/generated/stages/mineral-substrates.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/mineral-substrates.webp",
+      "size": 45498
+    },
+    {
+      "path": "assets/generated/stages/painting-and-finishing.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/painting-and-finishing.webp",
+      "size": 27002
+    },
+    {
+      "path": "assets/generated/stages/plumbing-and-heating.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/plumbing-and-heating.webp",
+      "size": 54506
+    },
+    {
+      "path": "assets/generated/stages/pneumatic-installation.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/pneumatic-installation.webp",
+      "size": 34942
+    },
+    {
+      "path": "assets/generated/stages/pneumatic-painting-and-surface-treatment.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/pneumatic-painting-and-surface-treatment.webp",
+      "size": 31354
+    },
+    {
+      "path": "assets/generated/stages/preparation-safety-and-layout.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/preparation-safety-and-layout.webp",
+      "size": 29202
+    },
+    {
+      "path": "assets/generated/stages/rough-construction-work.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/rough-construction-work.webp",
+      "size": 38270
+    },
+    {
+      "path": "assets/generated/stages/safety-and-ppe.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/safety-and-ppe.webp",
+      "size": 45450
+    },
+    {
+      "path": "assets/generated/stages/selection-by-work-stages.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/selection-by-work-stages.webp",
+      "size": 32048
+    },
+    {
+      "path": "assets/generated/stages/site-washing.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/site-washing.webp",
+      "size": 65718
+    },
+    {
+      "path": "assets/generated/stages/surface-preparation.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/surface-preparation.webp",
+      "size": 32362
+    },
+    {
+      "path": "assets/generated/stages/temporary-power-supply.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/temporary-power-supply.webp",
+      "size": 60710
+    },
+    {
+      "path": "assets/generated/stages/tile-stone-and-glass.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/tile-stone-and-glass.webp",
+      "size": 37388
+    },
+    {
+      "path": "assets/generated/stages/tile-substrates.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/tile-substrates.webp",
+      "size": 43242
+    },
+    {
+      "path": "assets/generated/stages/tool-preparation.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/tool-preparation.webp",
+      "size": 25134
+    },
+    {
+      "path": "assets/generated/stages/vehicle-and-equipment-repair.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/vehicle-and-equipment-repair.webp",
+      "size": 46168
+    },
+    {
+      "path": "assets/generated/stages/walls-and-ceilings.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/walls-and-ceilings.webp",
+      "size": 35950
+    },
+    {
+      "path": "assets/generated/stages/walls-and-partitions.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/walls-and-partitions.webp",
+      "size": 26380
+    },
+    {
+      "path": "assets/generated/stages/welding-of-metal-structures.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/welding-of-metal-structures.webp",
+      "size": 34230
+    },
+    {
+      "path": "assets/generated/stages/wooden-structures.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/wooden-structures.webp",
+      "size": 38738
+    },
+    {
+      "path": "assets/generated/stages/workshop-and-maintenance.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/workshop-and-maintenance.webp",
+      "size": 35794
+    },
+    {
+      "path": "assets/generated/stages/worksite-organization.webp",
+      "url": "https://sarancsk4536-ship-it.github.io/DNS_koncept_2/assets/generated/stages/worksite-organization.webp",
+      "size": 46878
+    }
+  ]
+}
